@@ -3,7 +3,7 @@ Welcome to HID++ Limited Edition Project!
 
 HID-Elite is a cross-platform, multithreaded C++ application designed to streamline the process of unlocking authenticators, extending the device's expiry periods. Whether you need to unlock all authenticators or just a portion of them, HID-Elite is here to make the task hassle-free, even when dealing with a large volume of authenticators, such as a million or more, via the API.
 
-![Screenshot of HIDElite](https://github.com/hidglobal/HID-Elite/blob/main/HIDElite.PNG?raw=true)
+![Screenshot of HIDElite](https://github.com/hidglobal/HID-Elite/blob/main/HIDLE.PNG?raw=true)
 
 # Main Features:
 Unlocking Authenticators: Easily unlocks all authenticators or select a specific portion on a tenant.
