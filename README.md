@@ -6,7 +6,7 @@ HID++ Elite is a cross-platform, multithreaded C++ application designed to strea
 Tested on HID Appliance 8.0 and AaaS.
 
 
-![Screenshot of HIDElite](https://github.com/hidglobal/HID-Elite/blob/main/HIDLE.PNG?raw=true)
+![Screenshot of HIDElite](https://github.com/hidglobal/HID-Elite/blob/main/HID_ELITE.PNG?raw=true)
 
 # Main Features:
 Unlocking Authenticators: Easily unlocks all authenticators or select a specific portion on a tenant.
